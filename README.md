@@ -86,7 +86,3 @@ This project is licensed under the [MIT License](LICENSE).
 ## Acknowledgments
 
 Inspired by NLP techniques for content moderation.
-
-## Contact
-
-For inquiries, contact [Tushar Aggarwal](mailto:info@tushar-aggarwal.com).
