@@ -1,0 +1,6 @@
+@echo off
+echo Activating virtual environment...
+call streamlit_env311\Scripts\activate
+echo Starting Streamlit app...
+streamlit run app.py --server.headless true
+pause
